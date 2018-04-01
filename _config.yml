@@ -1,3 +1,5 @@
+baseurl: "/fiftywalrus"
+url: "http://fiftywalrus.github.io" 
 defaults:
   - scope:
       path: "assets/img"
